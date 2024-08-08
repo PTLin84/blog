@@ -1,7 +1,7 @@
 # Site
-name: "Kyle Lin's Personal Blog"
+name: "Kyle's Blog"
 title: "Kyle Lin"
-description: "Blog about study/work in the US and startup/tech/energy trends"
+description: "Exploring US study, work, and the pulse of startup, tech & energy"
 logo: 'assets/images/Logo-square.png'
 favicon: 'favicon.ico'
 baseurl: ''
