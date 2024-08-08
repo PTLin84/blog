@@ -300,7 +300,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 50px;
     margin-right: 5px;
 }
 
@@ -899,3 +899,9 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.logo {
+    height: 45px; /* Set this to the desired height */
+    width: auto; /* Ensure the width adjusts proportionally */
+    display: block; /* Remove extra space below image */
+  }
