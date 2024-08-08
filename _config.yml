@@ -1,7 +1,7 @@
 # Site
-name: "Kyle Lin"
+name: "Kyle Lin's Personal Blog"
 title: "Kyle Lin"
-description: "Personal blog, made with Jekyll."
+description: "Blog about study/work in the US and startup/tech/energy trends"
 logo: 'assets/images/Logo-square.png'
 favicon: 'favicon.ico'
 baseurl: ''
@@ -11,6 +11,14 @@ disqus: 'kyleptlin-com'
 include: ["_pages"]
 permalink: /:title/
 portfolio: https://kyleptlin.com
+kyle:
+  name: Kyle
+  display_name: Kyle Lin
+  avatar: assets/images/profile.jpg
+  email: ptlin84@alumni.stanford.edu
+  web: https://kyleptlin.com
+  description: "A life-long student, nerd, and explorer."
+  linkedin: "https://www.linkedin.com/in/kyle-ptlin/"
 
 # Authors
 authors:

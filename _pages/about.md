@@ -1,35 +1,33 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: 關於作者
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+  <div class="col-md-7 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+    <p>住在灣區的史丹佛畢業生</p>
+    <p>對科技、新創、自我成長有興趣</p>
+    <p>嗜好包含閱讀📖、攝影📷、吉他🎸、游泳🏊、機車🏍️</p>
+    <a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a>
+    <br>
+    <a href="{{ site.portfolio }}" target="_blank">Portfolio/Resume</a>
+  </div>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
+  <div class="col-md-5">
+    <div class="sticky-top sticky-top-80">
+      <div class="row post-top-meta">
+        <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+          <img class="author-thumb" src="{{ site.baseurl }}/{{ site.kyle.avatar }}" alt="{{ site.kyle.display_name }}">
+        </div>
+        <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+          <a target="_blank" class="link-dark" href="{{ site.kyle.web }}">{{ site.kyle.display_name }}</a>
+          <!-- <a target="_blank" href="{{ site.kyle.twitter }}" class="btn follow">Follow</a> -->
+          <p style="font-size:16px;" class="author-description">{{ site.kyle.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
