@@ -24,6 +24,18 @@ post_class: post-template
                 <h1 class="posttitle">{{ page.title }}</h1>
             </div>
 
+            <!-- Post Date -->
+            <p>
+                <small>
+                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{
+                            page.date | date_to_string }}</time></span>
+                    {% if page.last_modified_at %}
+                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+                        itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                    {% endif %}
+                </small>
+            </p>
+
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
             {% include adsense-under-header.html %}
@@ -141,7 +153,7 @@ post_class: post-template
                         }}</a>
                     <!-- <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a> -->
 
-                    <p style="font-size:12px;" class="author-description">{{ author.description }}</p>
+                    <p style="font-size:14px;" class="author-description">{{ author.description }}</p>
                 </div>
             </div>
             {% endif %}
