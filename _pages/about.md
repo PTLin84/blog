@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 關於作者
+title: About
 permalink: /about
 comments: false
 ---
@@ -11,6 +11,11 @@ comments: false
     <p>住在灣區的史丹佛畢業生</p>
     <p>對科技、新創、自我成長有興趣</p>
     <p>嗜好包含閱讀📖、攝影📷、吉他🎸、游泳🏊、機車🏍️</p>
+    <Hr>
+    <p>A Stanford graduate in the Bay</p>
+    <p>Interested in tech, startups, and self-growth</p>
+    <p>Hobbies include reading📖, photography📷, playing guitar🎸, swimming🏊, and motorcycles🏍️</p>
+    <Hr>
     <a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a><br>
     <a href="{{ site.portfolio }}" target="_blank">Portfolio/Resume</a><br>
     <a href="mailto:ptlin84@alumni.stanford.edu" target="_blank">ptlin84@alumni.stanford.edu</a>
