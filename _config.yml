@@ -1,9 +1,9 @@
 # Site
 name: "Kyle Lin"
 title: "Kyle Lin"
-description: "Kyle Lin's blog, made with Jekyll."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "Personal blog, made with Jekyll."
+logo: 'assets/images/logo-square.png'
+favicon: 'favicon.ico'
 baseurl: ''
 google_analytics: 'G-FH1Q5J3TC3'
 disqus: 'demowebsite'
