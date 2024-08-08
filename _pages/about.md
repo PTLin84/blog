@@ -14,6 +14,7 @@ comments: false
     <a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a><br>
     <a href="{{ site.portfolio }}" target="_blank">Portfolio/Resume</a><br>
     <a href="mailto:ptlin84@alumni.stanford.edu" target="_blank">ptlin84@alumni.stanford.edu</a>
+  <Hr>
   </div>
 
   <div class="col-md-5">
