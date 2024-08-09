@@ -14,12 +14,17 @@
     "starsnonscss"
 ;
 
-/** Image caption **/
-.img-cap {
-    display: block;
-    margin-top: 8px;
-    font-style: italic;
-    color: #555; /* You can change this color to suit your design */
-    font-size: 14px; /* You can adjust the font size as needed */
-    text-align: center; /* Center align the description */
-  }
+figure.post-image {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figure.post-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+figure.post-image figcaption {
+    font-size: 0.9em;
+    color: #666;
+}

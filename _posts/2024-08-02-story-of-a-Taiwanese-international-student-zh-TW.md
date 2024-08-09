@@ -4,20 +4,19 @@ title:  "萬事起頭難，一個台灣留學生的故事"
 author: kyle
 categories: [ 留學, 史丹佛 ]
 image: assets/images/article0_img1.jpg
+inline-image0: /assets/images/article0_img0.jpg
+inline-image1: /assets/images/article0_img1.jpg
 ---
 2021年8月27日，我拿著單程機票隻身踏上飛機，準備展開我的美國留學生活。那時的場景至今仍存放在我記憶中的某個角落，記得我戴著耳機聽著音樂 (其實一半是為了阻隔機上的噪音)，在漆黑的機艙裡，盯著天花板看，思考著未來。
 
 時間快轉到2024年8月，我即將在目前的公司任職滿一年，來美國也快三年了。經歷了史丹佛大學的洗禮、第一次在台灣之外國家居住的不適應、語言的隔閡、文化的衝擊、找實習找工作的壓力、新的社交圈、數不清哩程數的road trips、笑死人的DMV (美國監理站)、受傷與漫長的復健、和美國夜生活的無聊至極…… 短短三年內卻發生這麼多的事情，讓我不禁思考當初若沒有走出台灣，我會少獲得多少珍貴的經歷、少失去多少成長的代價。
 
-<img src="/assets/images/article0_img1.jpg" alt="Me and Taiwan President in a group photo.">
-<em class="img-cap">剛到美國在學校隨手拍</em>
+{% include post_image.html src=page.inline-image1 alt="Stanford campus." caption="剛到美國在學校隨手拍" class="post-image" %}
 
 ## 關於我
 前情提要完，讓我來簡單自我介紹。我叫Kyle，來自台灣，去年從史丹佛大學畢業，獲得材料科學工程碩士學位，目前在舊金山灣區的一間新創公司上班，職位是電池資料分析師 (但其實什麼都做)。在史丹佛學習期間，我曾在William Chueh教授的實驗室當研究研究生 (graduate researcher)，做固態電池相關的研究。也因此在碩一的暑假有機會到固態電池的業界翹楚 — QuantumScape (QS)實習 (P.S. 股票投資有賺有賠)，在電解質研發部門做我最不想做的製程研究工作。我也曾任史丹佛台灣學生會的會長，因此認識了很多在史丹佛念書的優秀台灣人們，還因此有機會和現在的總統 (當時的副總統) 合照，雖然不知道有什麼用。
 
-
-<img src="/assets/images/article0_img0.jpg" alt="Me and Taiwan President in a group photo.">
-<em class="img-cap">我只是無足輕重的打雜工</em>
+{% include post_image.html src=page.inline-image0 alt="Me and Taiwan President in a group photo." caption="我只是無足輕重的打雜工" class="post-image" %}
 
 ## 動機
 言歸正傳，這篇文章是我個人blog的第一篇文章 (希望不會是最後一篇)，而讓我想開始經營blog的契機有三點:
