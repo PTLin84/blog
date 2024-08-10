@@ -27,13 +27,19 @@ post_class: post-template
             <!-- Post Date -->
             <p>
                 <small>
-                    <span class="post-date"><time id="post-date-since" class="post-date"
-                            datetime="{{ page.timestamp }}">
-                            {{ page.date | date_to_string }}</time></span>
-                    {% if page.last_modified_at %}
-                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
-                        itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                    {% endif %}
+                    <span class="post-info">
+                        <span class="post-date">
+                            <time id="post-date-since" class="post-date" datetime="{{ page.timestamp }}">
+                                {{ page.date | date_to_string }}</time>
+                            {% if page.last_modified_at %}
+                            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+                                itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                            {% endif %}
+                        </span>
+
+                        <span class="post-date" id="read-time" data-language="{{ page.language }}"></span>
+
+                    </span>
                 </small>
             </p>
 

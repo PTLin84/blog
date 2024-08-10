@@ -4,6 +4,7 @@ title:  "萬事起頭難，一個台灣留學生的故事"
 author: kyle
 categories: [ 留學, 史丹佛 ]
 timestamp: "1722663051000"
+language: zh
 image: assets/images/article0_img1.jpg
 inline-image0: /assets/images/article0_img0.jpg
 inline-image1: /assets/images/article0_img1.jpg
