@@ -5,6 +5,7 @@ description: "Exploring US study, work, and the pulse of startup, tech & energy"
 logo: 'assets/images/Logo-square.png'
 favicon: 'favicon.ico'
 baseurl: ''
+absolute_url: "https://blog.kyleptlin.com"
 google_analytics: 'G-FH1Q5J3TC3'
 disqus: 'kyleptlin-com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
