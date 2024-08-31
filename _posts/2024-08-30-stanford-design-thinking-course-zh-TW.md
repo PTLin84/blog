@@ -2,7 +2,7 @@
 layout: post
 title:  "史丹佛的設計思維課 - 從APP介面設計學習創造性問題解決"
 author: kyle
-categories: [ 網頁開發, 教學 ]
+categories: [ 史丹佛, 留學 ]
 timestamp: "1725081599000"
 language: zh
 image: assets/images/article3_img8.jpg
