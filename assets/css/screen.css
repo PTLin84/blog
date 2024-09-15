@@ -845,7 +845,12 @@ iframe {
 }
 
 .card .img-fluid {
-    width: 100%;
+    width: 100%;          /* Makes the image span the full width of the container */
+    height: 250px;        /* Fixes the height of the image */
+    object-fit: cover;    /* Ensures the image covers the container, cropping it if necessary */
+    object-position: center;  /* Centers the image within the container */
+    overflow: hidden;     /* Hides any overflow for cropping effect */
+    position: relative;   /* Ensures the image behaves within its parent container */
 }
 
 .sticky-top-80 {
