@@ -2,7 +2,7 @@
 layout: post
 title:  "美國留學的語言與文化衝擊"
 author: kyle
-categories: [ 美國, 留學, 文化差異 ]
+categories: [ 美國留學, 文化差異 ]
 timestamp: "1723255753000"
 language: zh
 image: assets/images/article1_img0.jpg

@@ -2,7 +2,7 @@
 layout: post
 title:  "下一步通往哪裡？把自己當新創經營"
 author: kyle
-categories: [ 自我成長 ]
+categories: [ 美國工作, 自我成長 ]
 timestamp: "1726373045000"
 language: zh
 image: assets/images/article4_img0.jpg

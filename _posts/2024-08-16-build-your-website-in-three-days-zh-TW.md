@@ -2,7 +2,7 @@
 layout: post
 title:  "網站架設DIY - 三天內快速搭建多功能靜態網站"
 author: kyle
-categories: [ 網頁開發, 教學 ]
+categories: [ 軟體開發 ]
 timestamp: "1723849792000"
 language: zh
 image: assets/images/article2_img1.jpg

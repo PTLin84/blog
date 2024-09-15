@@ -2,7 +2,7 @@
 layout: post
 title:  "Website Setup DIY - Build a Multifunctional Static Site in Three Days"
 author: kyle
-categories: [ Web Dev, Tutorial ]
+categories: [ "Technical" ]
 timestamp: "1723849792000"
 language: en
 image: assets/images/article2_img1.jpg
