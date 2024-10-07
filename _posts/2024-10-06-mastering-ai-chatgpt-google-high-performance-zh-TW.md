@@ -15,8 +15,6 @@ inline-image0: /assets/images/article6_img0.jpg
 <h4>根據 <a href="https://stackoverflow.com/">Stack Overflow</a> 於 2023 年的 <a href="https://survey.stackoverflow.co/2023/#most-popular-technologies-ai-search-prof">問卷調查</a> 顯示，超過 83% 的專業程式開發者定期使用 ChatGPT 幫助完成工作。</h4>
 
 
-（註：Stack Overflow是專門為程式開發者設計的問答網站，主要用來分享與解決程式設計相關的問題，是全球最大的技術問答社群之一。）
-
 幾個月前回台灣時，偶然在誠品看見史丹佛電腦科學碩士畢業的程世嘉學長的新書 - *[AI世界的底層邏輯與生存法則](https://www.gvm.com.tw/article/112580)*。書中提到了一個有趣的概念，**「取代你的不是AI，而是使用AI的人！」**自ChatGPT於2022年11月發表以來，已經過了將近兩年。除了ChatGPT模型的更新和進化，市面上也越來越多競爭對手，包含[Claude](https://claude.ai/)、[Google Gemini](https://gemini.google.com/)等，這些AI大型語言模型已經深刻改變最前線使用者的工作習慣。
 
 ## ChatGPT已經融入我的工作流程
