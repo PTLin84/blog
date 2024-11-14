@@ -6,6 +6,7 @@ categories: [ 美國工作, 自我成長 ]
 timestamp: "1731565549000"
 language: zh
 image: assets/images/article9_img0.jpg
+inline-image0: /assets/images/article9_img1.jpg
 ---
 
 **是否該在職場上主動找事做？**這是很多人在工作中遇到的問題。這樣的困擾也發生在幾個月前的我身上。在嘗試過什麼都不做和試圖改變現況後，我獲得了一些新的見解。
@@ -44,6 +45,9 @@ image: assets/images/article9_img0.jpg
 
 - 公司向客戶提供價值（或是向投資人展示公司具有未來向未來客戶提供價值的潛力），以此獲取資金作交換。
 - 你向公司提供價值，可以透過建立知識、流程、或產品，以此獲取薪水作交換。
+
+{% include post_image.html src=page.inline-image0 alt="Value chain of worker, company, and customers" caption="你-公司-客戶構成的價值鏈" class="post-image" %}
+
 
 正常情況下，賠錢的生意沒人做，或者說做不起來。
 
