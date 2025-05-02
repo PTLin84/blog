@@ -13,7 +13,7 @@ comments: false
     <p>對科技、新創、自我成長有興趣</p>
     <p>嗜好包含閱讀📖、攝影📷、吉他🎸、游泳🏊、機車🏍️</p>
     <Hr>
-    <p>A Stanford graduate in the Bay</p>
+    <p>A Taiwanese Stanford graduate in Bay Area</p>
     <p>Board Member — North America Taiwanese Engineering & Science Association - Silicon Valley</p>
     <p>Interested in tech, startups, and self-growth</p>
     <p>Hobbies include reading📖, photography📷, playing guitar🎸, swimming🏊, and motorcycles🏍️</p>
