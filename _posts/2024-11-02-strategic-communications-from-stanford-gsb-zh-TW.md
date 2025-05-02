@@ -2,6 +2,7 @@
 layout: post
 title:  "提升溝通力！我在史丹佛商學院學到的三大策略溝通要點"
 author: kyle
+featured: true
 categories: [ 美國留學, 史丹佛 ]
 timestamp: "1730598308000"
 language: zh

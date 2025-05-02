@@ -2,6 +2,7 @@
 layout: post
 title:  "從無數次的挫折到上岸 - 美國碩士生八個月的求職挑戰"
 author: kyle
+featured: true
 categories: [ 美國留學, 美國工作 ]
 timestamp: "1726981731000"
 language: zh
