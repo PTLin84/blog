@@ -31,6 +31,8 @@ inline-image0: /assets/images/article12_img0.jpg
 
 ### 個人背景
 
+我在台灣念大學，後來到美國念碩士。曾在實驗室、新創、大公司工作過，也涵蓋了幾個不同職能部門，包含研發、製造、業務、以及客戶支援。**這段歷程幫助我從不同角度看待技術與組織的關係。**
+
 <div style="font-family: sans-serif; max-width: 600px; line-height: 1.6;">
   <h5 style="border-bottom: 2px solid #ccc; padding-bottom: 4px;">🇹🇼 台灣</h5>
   <ul style="margin-top: 0;">
@@ -38,12 +40,13 @@ inline-image0: /assets/images/article12_img0.jpg
     <li>清大高性能合金實驗室 – 專題生、研究助理</li>
     <li>已成先進材料 – 5人新創</li>
     <li>台積電 – 暑期實習</li>
-    <li>Keyence 台灣 – 技術支援工程師</li>
+    <li>Keyence台灣 – 技術支援工程師</li>
   </ul>
 
   <h5 style="border-bottom: 2px solid #ccc; padding-bottom: 4px;">🇺🇸 美國</h5>
   <ul style="margin-top: 0;">
     <li>史丹佛材料碩士</li>
+    <li>史丹佛電池材料實驗室 – 專題生</li>
     <li>QuantumScape – 暑期實習</li>
     <li>能源新創公司 – 機器學習工程師</li>
   </ul>
