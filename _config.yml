@@ -1,7 +1,7 @@
 # Site
 name: "Nerd in Sunnyvale"
 title: "Kyle Lin"
-description: "A Stanford materials engineer turned MLOps engineer — writing about startups, career pivots, and building things in Silicon Valley."
+description: "A Stanford materials engineer turned AI infra engineer — writing about career pivots and building things in Silicon Valley."
 logo: 'assets/images/Logo-square.png'
 favicon: 'favicon.ico'
 baseurl: ''
