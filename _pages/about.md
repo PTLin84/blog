@@ -9,46 +9,73 @@ comments: false
   <div class="col-md-7 pr-5">
 
 
-    <h4>Hi, I'm Kyle</h4>
+<h4>Hi, I'm Kyle</h4>
 
-    <p>I'm a Taiwanese engineer based in the Bay Area, currently working as an MLOps Engineer at TikTok Ads, where I own reliability for PB-scale real-time data systems that support ads recommendation systems. Previously, I built ML pipelines and data infrastructure for battery management systems at Element Energy, a series B startup at that time.</p>
+<p>I went from researching solid-state batteries at Stanford, to building ML pipelines at a Series B energy startup, to owning reliability for PB-scale data systems at TikTok Ads. This blog is where I write about what I learn along the way — usually a few months after I've stopped feeling clueless about it.</p>
 
-    <p>I hold an MS in Materials Science and Engineering from Stanford University, where I researched solid-state batteries in Professor William Chueh's lab, and served as President of the Stanford Taiwanese Student Association. I also hold a BS in Materials Science and Engineering and a BA in Economics from National Tsing Hua University, where I researched high-performance alloys in Professor Che-Wei Tsai's lab. <a href="https://scholar.google.com.tw/citations?user=itnDHV0AAAAJ" target="_blank">Google Scholar</a></p>
+<p>Topics I'm drawn to:</p>
 
-    <p>My background spans materials research, startup environments, and production ML systems, which gives me an unusual vantage point for thinking about technology, career decisions, and building things that matter.</p>
+<ul>
+  <li>Startup vs. big tech — career pivots and what each environment actually teaches you</li>
+  <li>Applied AI from the infrastructure side</li>
+  <li>Self-development — frameworks from books, tested against real life</li>
+  <li>The Taiwan-to-Silicon Valley adventure</li>
+</ul>
 
-    <p>I write about <strong>startups, career pivots, applied AI, self-development, and the Taiwan-to-Silicon Valley journey</strong>, combining frameworks from books and coursework with real experiences so the ideas are actually useful, not just theoretical.</p>
+<p>I write because writing forces me to be honest about what I actually understand. If a post saves you from a mistake I made, even better.</p>
 
-    <p>If something I wrote resonated with you, or if you're working on something interesting in AI, energy, or startups, I'd love to connect.</p>
-    
-    <Hr>
+<h5>Background</h5>
 
-    <a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="{{ site.portfolio }}" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-    <a href="mailto:ptlin84@alumni.stanford.edu">ptlin84@alumni.stanford.edu</a>
+<p>Currently MLOps Engineer at TikTok Ads (Global Ads Infrastructure SRE), where I own reliability for the real-time data systems that keep ads recommendation models training continuously. Previously at Element Energy, building ML and data infrastructure for battery management systems.</p>
 
-    <Hr>
+<p>MS in Materials Science from Stanford (solid-state batteries, Chueh Lab). BS in Materials Science + BA in Economics from National Tsing Hua University. Seven papers, 300+ citations — <a href="https://scholar.google.com.tw/citations?user=itnDHV0AAAAJ" target="_blank">Google Scholar</a>.</p>
 
-   <h4>你好，我是 Kyle</h4>
+<p>Board member at NATEA Silicon Valley. Former President of the Stanford Taiwanese Student Association.</p>
 
-    <p>我是一名在灣區工作的台灣工程師，目前在 TikTok 廣告部門擔任 MLOps Engineer，負責全球大規模實時數據系統的可靠性工程，確保廣告推薦 ML 模型即時更新。在此之前，我在 Element Energy (矽谷一間 Series B 規模新創公司) 研發電池管理系統的 AI 模型與數據基礎設施。</p>
+<p>Off-hours: running, photography, guitar, reading, and learning.</p>
 
-    <p>學術背景方面，我具有史丹佛大學材料科學碩士學位，曾在 William Chueh 教授實驗室從事固態電池研究，也是史丹佛台灣學生會的前任會長。我也具有台灣清華大學材料科學和經濟學雙學士學位，曾在蔡哲瑋教授實驗室從事高性能合金材料研究。 <a href="https://scholar.google.com.tw/citations?user=itnDHV0AAAAJ" target="_blank">Google Scholar</a></p>
+<p>If something here resonates, or you're working on something interesting in AI or startups — I'd like to hear from you.</p>
 
-    <p>我寫這個部落格，是因為我相信把想法寫下來是最好的學習方式。我想把自己走過的彎路、讀過的書、在矽谷觀察到的事，整理成對你真正有用的內容。無論你是正在找工作的留學生、對新創有興趣的工程師，還是想理解 AI 與科技趨勢的讀者。</p>
+<hr>
 
-    <p>我特別關注的主題：<strong>新創思維、職涯轉型、AI 應用、自我成長、以及台灣人在矽谷的生存之道。</strong></p>
+<a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+<a href="{{ site.portfolio }}" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+<a href="mailto:ptlin84@alumni.stanford.edu">ptlin84@alumni.stanford.edu</a>
 
-    <Hr>
+<hr>
 
-    <a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="{{ site.portfolio }}" target="_blank">Portfolio</a> &nbsp;·&nbsp;
-    <a href="mailto:ptlin84@alumni.stanford.edu">ptlin84@alumni.stanford.edu</a>
+<h4>你好，我是 Kyle</h4>
 
-    <Hr>
+<p>我從清大念材料、到史丹佛做固態電池研究，畢業後加入矽谷的 Series B 新創寫 ML pipeline，現在在 TikTok 廣告部門當 MLOps Engineer，負責 PB 級即時數據系統的可靠性。這個 blog 是我把走過的路、踩過的坑、想清楚的事寫下來的地方。</p>
 
-    <p style="font-size: 14px; color: #888;">嗜好：閱讀📖、攝影📷、吉他🎸、游泳🏊、慢跑🏃‍♂️</p>
-    <p style="font-size: 14px; color: #888;">Board Member — North America Taiwanese Engineering & Science Association - Silicon Valley Chapter</p>
+<p>我想寫的主題：</p>
+
+<ul>
+  <li>新創 vs. 大廠 — 職涯轉型，以及兩種環境真正教會你的事</li>
+  <li>從 AI Infra 角度看 AI 應用</li>
+  <li>自我成長：書本框架和理論放到真實生活裡的試驗</li>
+  <li>台灣到矽谷的冒險之路</li>
+</ul>
+
+<p>我寫，是因為寫作會逼我誠實面對「我到底懂多少」。如果這裡的某篇文章能讓你少走一段我走過的彎路，那就值得了。</p>
+
+<h5>背景</h5>
+
+<p>目前在 TikTok 廣告部門擔任 MLOps Engineer（Global Ads Infrastructure SRE），負責全球大規模即時資料系統的可靠性工程，確保廣告推薦模型能持續即時更新。在此之前任職於 Element Energy（矽谷 Series B 新創），負責電池管理系統的 ML 模型與資料基礎設施。</p>
+
+<p>史丹佛大學材料科學碩士（William Chueh 教授實驗室，固態電池方向）；國立清華大學材料科學學士＋經濟學學士（蔡哲瑋教授實驗室）。發表七篇論文，被引用 300+ 次 — <a href="https://scholar.google.com.tw/citations?user=itnDHV0AAAAJ" target="_blank">Google Scholar</a>。</p>
+
+<p>北美台灣工程師協會（NATEA）矽谷分會理事，史丹佛台灣學生會前任會長。</p>
+
+<p>下班後：跑步、攝影、吉他、看書、學習。</p>
+
+<p>如果這裡的內容對你有共鳴，或你正在做 AI、新創相關的有趣事情，歡迎聯絡。</p>
+
+<hr>
+
+<a href="{{ site.kyle.linkedin }}" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+<a href="{{ site.portfolio }}" target="_blank">Portfolio</a> &nbsp;·&nbsp;
+<a href="mailto:ptlin84@alumni.stanford.edu">ptlin84@alumni.stanford.edu</a>
 
   </div>
 
