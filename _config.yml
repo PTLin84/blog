@@ -1,7 +1,7 @@
 # Site
 name: "Nerd in Sunnyvale"
 title: "Kyle Lin"
-description: "Exploring work, startup, and tech"
+description: "A Stanford materials engineer turned MLOps engineer — writing about startups, career pivots, and building things in Silicon Valley."
 logo: 'assets/images/Logo-square.png'
 favicon: 'favicon.ico'
 baseurl: ''
@@ -18,7 +18,7 @@ kyle:
   avatar: assets/images/profile.jpg
   email: ptlin84@alumni.stanford.edu
   web: https://kyleptlin.com
-  description: "A life-long student, nerd, and explorer."
+  description: "MLOps Engineer at TikTok. Stanford MS Materials Science. Writing about startups, career growth, and tech."
   linkedin: "https://www.linkedin.com/in/kyle-ptlin/"
 
 # Authors
@@ -29,7 +29,7 @@ authors:
     avatar: assets/images/profile.jpg
     email: ptlin84@alumni.stanford.edu
     web: https://kyleptlin.com
-    description: "A life-long student, nerd, and explorer."
+    description: "MLOps Engineer at TikTok. Stanford MS Materials Science. Writing about startups, career growth, and tech."
 
 
 # Plugins
